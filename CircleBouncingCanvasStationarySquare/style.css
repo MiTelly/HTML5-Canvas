@@ -1,0 +1,13 @@
+#center {
+  margin: 0px auto;
+  width: 950px;
+  height: 700px;
+  margin-top: 20px;
+}
+#canvas {
+  background-color: blue;
+}
+
+body {
+  background-color: white;
+}
