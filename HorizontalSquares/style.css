@@ -1,0 +1,26 @@
+body {
+  background: radial-gradient(circle,white,blue);
+}
+
+#center {
+    display: block;
+}
+
+#myCanvas {
+  background-color: black;
+  margin: 20px 0 0 50px
+}
+
+button {
+  float: left;
+  width: 150px;
+  height: 55px;
+  font-size: 20px;
+  display: block;
+}
+
+.buttons {
+  display: block;
+  margin: 30px 0 0 50px;
+  height: 70px;
+}
