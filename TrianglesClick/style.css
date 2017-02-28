@@ -1,0 +1,24 @@
+body {
+  margin: auto;
+  background: radial-gradient(circle,white,blue);
+  /*background: linear-gradient(white,blue);*/
+}
+
+canvas {
+  background-color: black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin: 0 auto;
+  cursor: pointer;
+  margin-left: 60px;
+  /*display: inline;*/
+}
+
+p {
+  background-color: beige;
+  width: 960px;
+  font-style: arial;
+  font-size: 25px;
+  border-radius: 7px;
+  margin-left: 60px;
+}
