@@ -1,0 +1,10 @@
+#center {
+  margin: 0px auto;
+  height: 550px;
+  width: 1000px;
+  margin-top: 50px;
+}
+#canvas {
+  background-color: black;
+  width: 1000px;
+}
