@@ -1,0 +1,10 @@
+canvas {
+  background-color: black;
+}
+
+button {
+  width: 100px;
+  height: 60px;
+  font-size: 25px;
+  margin-bottom: 30px
+}
